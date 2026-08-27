@@ -1,5 +1,6 @@
 //Link : https://www.geeksforgeeks.org/problems/maximum-weight-node--170645/1
 
+
 //Company Asked : JUSPAY
 
 class Solution {
