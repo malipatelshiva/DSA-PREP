@@ -3,7 +3,6 @@
 //Problem : Given an integer n representing number of vertices. Find out how many undirected graphs (not necessarily connected) can be constructed out of a given n number of vertices.
 
 
-
 class Solution {
   public:
     long long count(int n) {

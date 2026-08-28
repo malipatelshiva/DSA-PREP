@@ -4,7 +4,7 @@
 
 1. You are given a graph in the form of an adjacency list.
 2. You have to print the adjacency list of the graph.  */  
-
+  
 class Solution {
   public:
     vector<vector<int>> printGraph(int V, vector<pair<int, int>>& edges) {

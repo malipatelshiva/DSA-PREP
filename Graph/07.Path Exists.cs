@@ -3,7 +3,6 @@
 
 //Company Asked : NPCI
 
-
 class Solution {
   public:
   
